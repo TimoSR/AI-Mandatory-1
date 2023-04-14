@@ -8,6 +8,8 @@ packages = [{include = "ai_mandatory_1"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+jupyter = "^1.0.0"
+notebook = "^6.5.4"
 
 
 [build-system]
