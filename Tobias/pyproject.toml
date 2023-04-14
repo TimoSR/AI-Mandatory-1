@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "tobias"
+version = "0.1.0"
+description = ""
+authors = ["tobia2408 <tobiaspo@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+jupyterlab = "^3.6.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
