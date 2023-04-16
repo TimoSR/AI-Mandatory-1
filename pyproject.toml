@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "ai_mandatory_1"}]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.8"
 jupyter = "^1.0.0"
 notebook = "^6.5.4"
 
