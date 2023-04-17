@@ -10,6 +10,7 @@ packages = [{include = "ai_mandatory_1"}]
 python = "^3.11"
 jupyter = "^1.0.0"
 notebook = "^6.5.4"
+pandas = "^2.0.0"
 
 
 [build-system]
